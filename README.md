@@ -1,6 +1,6 @@
 # Polihali
 
-Full article at medium.com
+Full article at [medium.com](https://medium.com/@sekamane/polihali-dam-e16b946c50f7)
 
 ## Images
 
