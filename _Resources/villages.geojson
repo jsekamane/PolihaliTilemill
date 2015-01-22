@@ -1,0 +1,925 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-11-20T18:33:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/3131108883",
+      "properties": {
+        "@id": "node/3131108883",
+        "place": "hamlet",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9430745,
+          -29.3758279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3131108215",
+      "properties": {
+        "@id": "node/3131108215",
+        "place": "village",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9620324,
+          -29.3713677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3131108196",
+      "properties": {
+        "@id": "node/3131108196",
+        "place": "hamlet",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9712039,
+          -29.3762673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3131108889",
+      "properties": {
+        "@id": "node/3131108889",
+        "place": "village",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.988317,
+          -29.374109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3131108170",
+      "properties": {
+        "@id": "node/3131108170",
+        "place": "village",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9692835,
+          -29.3689746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3131108205",
+      "properties": {
+        "@id": "node/3131108205",
+        "place": "hamlet",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9985614,
+          -29.370041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1226549176",
+      "properties": {
+        "@id": "node/1226549176",
+        "name": "Ha Koeneho",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0215447,
+          -29.3564449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1226547991",
+      "properties": {
+        "@id": "node/1226547991",
+        "name": "Ha Setefane",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0632595,
+          -29.3704716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1226549165",
+      "properties": {
+        "@id": "node/1226549165",
+        "name": "Ha Mamolibeli",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0771952,
+          -29.3729011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1226549191",
+      "properties": {
+        "@id": "node/1226549191",
+        "name": "Maphiring",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.045793,
+          -29.3670308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2993844831",
+      "properties": {
+        "@id": "node/2993844831",
+        "place": "village",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8146952,
+          -29.3264002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3070301321",
+      "properties": {
+        "@id": "node/3070301321",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.82049,
+          -29.3059284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2993845606",
+      "properties": {
+        "@id": "node/2993845606",
+        "place": "village",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8125065,
+          -29.2758394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2993845559",
+      "properties": {
+        "@id": "node/2993845559",
+        "place": "village",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8206604,
+          -29.2704113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3131108874",
+      "properties": {
+        "@id": "node/3131108874",
+        "place": "village",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9319058,
+          -29.3117176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3191769712",
+      "properties": {
+        "@id": "node/3191769712",
+        "place": "village",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9361872,
+          -29.3138702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3070311121",
+      "properties": {
+        "@id": "node/3070311121",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8651434,
+          -29.2655095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3032439691",
+      "properties": {
+        "@id": "node/3032439691",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8785291,
+          -29.2755231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3032439708",
+      "properties": {
+        "@id": "node/3032439708",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8759434,
+          -29.2707454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2993845598",
+      "properties": {
+        "@id": "node/2993845598",
+        "place": "village",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.854864,
+          -29.254687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3032439798",
+      "properties": {
+        "@id": "node/3032439798",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8960439,
+          -29.2848414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3032439761",
+      "properties": {
+        "@id": "node/3032439761",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9066815,
+          -29.2824856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3032439726",
+      "properties": {
+        "@id": "node/3032439726",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8975191,
+          -29.275867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3065234876",
+      "properties": {
+        "@id": "node/3065234876",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9238852,
+          -29.2672123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2994320753",
+      "properties": {
+        "@id": "node/2994320753",
+        "place": "village",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9077005,
+          -29.264729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/702070471",
+      "properties": {
+        "@id": "node/702070471",
+        "name": "Tlokoeng",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9014869,
+          -29.2443047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3070357319",
+      "properties": {
+        "@id": "node/3070357319",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8610928,
+          -29.2324388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2993844659",
+      "properties": {
+        "@id": "node/2993844659",
+        "place": "village",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8827353,
+          -29.2316034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3070357320",
+      "properties": {
+        "@id": "node/3070357320",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8715332,
+          -29.2213112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3070357321",
+      "properties": {
+        "@id": "node/3070357321",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8768996,
+          -29.2169114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/702070585",
+      "properties": {
+        "@id": "node/702070585",
+        "name": "Mapholaneng",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8719664,
+          -29.2102424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2994219713",
+      "properties": {
+        "@id": "node/2994219713",
+        "place": "hamlet",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.896462,
+          -29.2200837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2993844515",
+      "properties": {
+        "@id": "node/2993844515",
+        "place": "village",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8704626,
+          -29.1559476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3131108850",
+      "properties": {
+        "@id": "node/3131108850",
+        "place": "village",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9700881,
+          -29.3408928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3131108865",
+      "properties": {
+        "@id": "node/3131108865",
+        "place": "village",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9886694,
+          -29.3249646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3131108829",
+      "properties": {
+        "@id": "node/3131108829",
+        "place": "village",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9901071,
+          -29.3156476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3131108890",
+      "properties": {
+        "@id": "node/3131108890",
+        "place": "village",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9527117,
+          -29.2854653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3131108876",
+      "properties": {
+        "@id": "node/3131108876",
+        "place": "village",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9624106,
+          -29.2887947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3131108839",
+      "properties": {
+        "@id": "node/3131108839",
+        "place": "hamlet",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9634792,
+          -29.2838165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3131108177",
+      "properties": {
+        "@id": "node/3131108177",
+        "place": "village",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9717178,
+          -29.2838165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3131108894",
+      "properties": {
+        "@id": "node/3131108894",
+        "place": "village",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9867382,
+          -29.2825448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3131108866",
+      "properties": {
+        "@id": "node/3131108866",
+        "place": "village",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9918666,
+          -29.2671967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3131108861",
+      "properties": {
+        "@id": "node/3131108861",
+        "place": "village",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9970379,
+          -29.2763113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/261747282",
+      "properties": {
+        "@id": "node/261747282",
+        "name": "Mokhotlong",
+        "place": "town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0631346,
+          -29.2895143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2993844508",
+      "properties": {
+        "@id": "node/2993844508",
+        "place": "village",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0569094,
+          -29.2401211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2993845030",
+      "properties": {
+        "@id": "node/2993845030",
+        "place": "village",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0706627,
+          -29.2510944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2993844473",
+      "properties": {
+        "@id": "node/2993844473",
+        "place": "village",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0663508,
+          -29.2436785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3131108188",
+      "properties": {
+        "@id": "node/3131108188",
+        "place": "hamlet",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9919964,
+          -29.2349198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3131108884",
+      "properties": {
+        "@id": "node/3131108884",
+        "place": "village",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9991204,
+          -29.2323925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2993845625",
+      "properties": {
+        "@id": "node/2993845625",
+        "place": "village",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0315668,
+          -29.1724553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2993844454",
+      "properties": {
+        "@id": "node/2993844454",
+        "place": "hamlet",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0555082,
+          -29.220143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2993845538",
+      "properties": {
+        "@id": "node/2993845538",
+        "place": "hamlet",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0525514,
+          -29.222688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2993844815",
+      "properties": {
+        "@id": "node/2993844815",
+        "place": "village",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0592891,
+          -29.2136632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2993845272",
+      "properties": {
+        "@id": "node/2993845272",
+        "place": "hamlet",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0625313,
+          -29.2058944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2993845128",
+      "properties": {
+        "@id": "node/2993845128",
+        "place": "village",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0715629,
+          -29.2058738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2993845098",
+      "properties": {
+        "@id": "node/2993845098",
+        "place": "village",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0490977,
+          -29.1708056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2993845323",
+      "properties": {
+        "@id": "node/2993845323",
+        "place": "village",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.06238,
+          -29.1666657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2993844996",
+      "properties": {
+        "@id": "node/2993844996",
+        "place": "village",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0467385,
+          -29.1524631
+        ]
+      }
+    }
+  ]
+}
