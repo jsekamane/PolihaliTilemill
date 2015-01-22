@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-11-20T15:36:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/3194411965",
+      "properties": {
+        "@id": "node/3194411965",
+        "name": "Polihali damwall",
+        "source": "http://invest-tripartite.org/wp-content/uploads/2013/06/14-Lesotho-Highlands-Water-Project-Phase-2-PIM-19-05-2013.pdf",
+        "waterway": "dam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8642552,
+          -29.2885661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3031991860",
+      "properties": {
+        "@id": "node/3031991860",
+        "name": "Polihali Saddle Dam",
+        "source": "http://invest-tripartite.org/wp-content/uploads/2013/06/14-Lesotho-Highlands-Water-Project-Phase-2-PIM-19-05-2013.pdf",
+        "waterway": "dam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8664277,
+          -29.2815525
+        ]
+      }
+    }
+  ]
+}
