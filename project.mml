@@ -1,0 +1,209 @@
+{
+  "bounds": [
+    28.7512,
+    -29.3825,
+    29.1735,
+    -29.1597
+  ],
+  "center": [
+    28.938,
+    -29.2816,
+    7
+  ],
+  "format": "png8",
+  "interactivity": false,
+  "minzoom": 0,
+  "maxzoom": 22,
+  "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
+  "Stylesheet": [
+    "style.mss"
+  ],
+  "Layer": [
+    {
+      "geometry": "linestring",
+      "extent": [
+        28.781433,
+        -29.4079,
+        29.086304,
+        -29.13417
+      ],
+      "id": "CustomPolygon",
+      "class": "",
+      "Datasource": {
+        "file": "/Users/jonassekamane/Downloads/Lesotho/Polygon2.geojson",
+        "layer": "OGRGeoJSON"
+      },
+      "layer": null,
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "CustomPolygon"
+    },
+    {
+      "geometry": "linestring",
+      "extent": [
+        24.999583817610997,
+        -34.05030927218899,
+        30.000862781031337,
+        -24.99958335755783
+      ],
+      "id": "contour",
+      "class": "",
+      "Datasource": {
+        "file": "/Users/jonassekamane/Downloads/Lesotho/srtm-3785-contour.shp"
+      },
+      "layer": null,
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "contour"
+    },
+    {
+      "id": "countries",
+      "name": "countries",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
+      "geometry": "polygon",
+      "Datasource": {
+        "file": "http://mapbox-geodata.s3.amazonaws.com/natural-earth-1.4.0/cultural/10m-admin-0-countries.zip",
+        "type": "shape",
+        "id": "countries",
+        "project": "PolihaliTilemill",
+        "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over"
+      }
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        28.8109807,
+        -29.3716329,
+        29.0902345,
+        -29.1584745
+      ],
+      "id": "residential",
+      "class": "",
+      "Datasource": {
+        "file": "/Users/jonassekamane/Downloads/Lesotho/residential.geojson",
+        "layer": "OGRGeoJSON",
+        "id": "residential",
+        "project": "PolihaliTilemill",
+        "srs": ""
+      },
+      "layer": null,
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "residential"
+    },
+    {
+      "geometry": "linestring",
+      "extent": [
+        28.7797145,
+        -29.4567268,
+        29.3879691,
+        -28.9664232
+      ],
+      "id": "waterway",
+      "class": "",
+      "Datasource": {
+        "file": "/Users/jonassekamane/Downloads/Lesotho/MokhotlongWaterways3.geojson",
+        "layer": "OGRGeoJSON"
+      },
+      "layer": null,
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "waterway"
+    },
+    {
+      "geometry": "point",
+      "extent": [
+        28.781433,
+        -29.4079,
+        29.086304,
+        -29.13417
+      ],
+      "id": "Points",
+      "class": "",
+      "Datasource": {
+        "file": "/Users/jonassekamane/Downloads/Lesotho/Polygon2_point2.geojson",
+        "layer": "OGRGeoJSON",
+        "id": "Points",
+        "project": "PolihaliTilemill",
+        "srs": ""
+      },
+      "layer": "OGRGeoJSON",
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "Points"
+    },
+    {
+      "geometry": "linestring",
+      "extent": [
+        28.7828547,
+        -29.5123497,
+        29.2033302,
+        -29.1178909
+      ],
+      "id": "road",
+      "class": "",
+      "Datasource": {
+        "file": "/Users/jonassekamane/Downloads/Lesotho/roads.geojson",
+        "layer": "OGRGeoJSON"
+      },
+      "layer": null,
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "road"
+    },
+    {
+      "geometry": "point",
+      "extent": [
+        28.8125065,
+        -29.3704716,
+        29.0715629,
+        -29.1666657
+      ],
+      "id": "villages",
+      "class": "",
+      "Datasource": {
+        "file": "/Users/jonassekamane/Downloads/Lesotho/villages.geojson",
+        "layer": "OGRGeoJSON"
+      },
+      "layer": null,
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "villages"
+    },
+    {
+      "geometry": "point",
+      "extent": [
+        28.8642552,
+        -29.2885661,
+        28.8664277,
+        -29.2815525
+      ],
+      "id": "dams",
+      "class": "",
+      "Datasource": {
+        "file": "/Users/jonassekamane/Downloads/Lesotho/PolihaliDams.geojson",
+        "layer": "OGRGeoJSON",
+        "id": "dams",
+        "project": "PolihaliTilemill",
+        "srs": ""
+      },
+      "layer": null,
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "dams"
+    }
+  ],
+  "scale": 1,
+  "metatile": 2,
+  "name": "Polihali (Tilemill)",
+  "description": "",
+  "attribution": ""
+}
